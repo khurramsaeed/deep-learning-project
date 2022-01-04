@@ -12,7 +12,7 @@ This repository holds the `notebook.ipynb` file which covers all of the data pre
 1. Download the data zip files from the link above.
 2. Save them as siblings to `notebook.ipynb` file.
 3. Run each code block `notebook.ipynb` (Note: One of the partx.zip has some meta data which corrupts the images while extracting)
-4. If you have competed the above steps succesfully you will have a folder containing both the `images` and `labels` in the correct format.
+4. If you have completed the above steps succesfully you will have a folder containing both the `images` and `labels` in the correct format.
 
 ### Run the model
 ```
